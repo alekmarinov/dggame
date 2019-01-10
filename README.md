@@ -1,4 +1,6 @@
-# Game based on DG library (https://github.com/alekmarinov/dg)
+# Game based on DG library
+
+DG - https://github.com/alekmarinov/dg
 
 Screenshot
 
